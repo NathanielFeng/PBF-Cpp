@@ -1,7 +1,7 @@
 # PBF-Cpp
 Position based fluid simulation in C++.
 
-# Algorithm
+## Algorithm
 <img src="algorithm.png" />
 <p align="center"><i>The algorithm of PBF.</i></p>
 
